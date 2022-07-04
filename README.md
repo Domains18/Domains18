@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, My Name is Gibsons</h1>
 <h3 align="center">I am an Enthusiatic Passionate Developer from Kenya</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=petrichor-3&label=Profile%20views&color=0e75b6&style=flat" alt="petrichor-3" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Domains18&label=Profile%20views&color=0e75b6&style=flat" alt="petrichor-3" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=petrichor-3" alt="petrichor-3" /></a> </p>
 
