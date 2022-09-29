@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, My Name is Gibsons</h1>
 <h3 align="center">I am an Enthusiatic Passionate Developer from Kenya</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Domains18" alt="Domains18" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/tweetofsins" target="blank"><img src="https://img.shields.io/twitter/follow/tweetofsins?logo=twitter&style=for-the-badge" alt="tweetofsins" /></a> </p>
 
 <!-- 🔭 I’m currently working on **an Admin System page**
