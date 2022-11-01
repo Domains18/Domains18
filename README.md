@@ -1,6 +1,4 @@
 # 💫 About Me:
-React Portfolio <a href="https://wakatime.com/badge/user/a265e567-293c-4785-995f-d7b740762a15/project/5d7ad09a-8f8d-4e79-842a-a145f79c1425"><img src="https://wakatime.com/badge/user/a265e567-293c-4785-995f-d7b740762a15/project/5d7ad09a-8f8d-4e79-842a-a145f79c1425.svg" alt="wakatime"></a>
-
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/eightsville) 
 
