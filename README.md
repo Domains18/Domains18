@@ -3,7 +3,7 @@
 ## Hi there, I'm Gibson
 
 Here are some ideas to get you started:
-- 🌱 I’m an experienced developer in ... `Javascript, Python, , Java..`
+- 🌱 I’m an experienced developer in ... `Javascript, Python, ,`
 - 📫 How to reach me: ... rhscience.iee@gmail.com
 
 ## Tech Stack:
