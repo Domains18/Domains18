@@ -22,7 +22,7 @@ val GibsonsGibson = developer {
 }
 
 ```
-    
+
 
 
 
