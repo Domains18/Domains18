@@ -11,7 +11,7 @@ Eng/Sir
 
 ## My Github Stats
 
-<!-- [![Gibsons github streak](https://github-readme-streak-stats.herokuapp.com?user=Domains18&theme=radical)](https://github.com/Domains18) -->
+[![Gibsons github streak](https://github-readme-streak-stats.herokuapp.com?user=Domains18&theme=radical)](https://github.com/Domains18)
 
 [![Gibsons wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eightsville&theme=radical&custom_title=My%20Wakatime%20Stats&layout=compact)](https://github.com/Domains8)
 
