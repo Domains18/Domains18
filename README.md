@@ -1,6 +1,6 @@
 # Welcome to my Github profile 
 
-## Hi there, I'm Gibson
+## Hi there, I'm Gibsons
 
 Here are some ideas to get you started:
 - 🌱 I’m an experienced developer in ... `Javascript, Python,`
