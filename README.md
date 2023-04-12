@@ -17,5 +17,5 @@ Eng/Sir
 [![Gibsons wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eightsville&theme=radical&custom_title=My%20Wakatime%20Stats&layout=compact)](https://github.com/Domains8)
 
 
-<!-- [![Gibsons github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Domains18&theme=react-dark)](https://github.com/Domains18) -->
+[![Gibsons github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Domains18&theme=react-dark)](https://github.com/Domains18)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Domains18&layout=compact&theme=tokyonight)](https://github.com/Domains18/github-readme-stats)
