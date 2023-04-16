@@ -28,4 +28,6 @@ val GibsonsGibson = developer {
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Domains18&layout=compact&theme=tokyonight)](https://github.com/Domains18/github-readme-stats)
- 
+
+[![Gibsons's GitHub stats](https://github-readme-stats.vercel.app/api?username=Domains18&show_icons=true&theme=radical)](
+    
