@@ -12,14 +12,14 @@ Eng/Sir -->
 <!-- ## My Github Stats -->
 <!-- ## <img width="35" alt="about" src="https://github.com/jumaallan/jumaallan/blob/master/jumaallan.jpeg"> Chief Plumber @ Smile Identity -->
 ```kotlin
-val jumaallan = developer {
+val GibsonsGibson = developer {
     about {
-        name = "Juma Allan"
-        role = Chief Plumber @ Smile Identity
+        name = "Gibson Kemboi"
+        role = Full-Stack Developer
     }
-    tech("Kotlin", "Golang", "Rust", "Swift")
+    tech("Javascript", "Typescript", "Python", "Golang")
     links {
-        twitter = "@_jumaallan"
+        twitter = "@_eightsville"
     }
 }
 ```
