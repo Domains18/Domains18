@@ -10,6 +10,20 @@
 Eng/Sir -->
 
 <!-- ## My Github Stats -->
+<!-- ## <img width="35" alt="about" src="https://github.com/jumaallan/jumaallan/blob/master/jumaallan.jpeg"> Chief Plumber @ Smile Identity -->
+```kotlin
+val jumaallan = developer {
+    about {
+        name = "Juma Allan"
+        role = Chief Plumber @ Smile Identity
+    }
+    tech("Kotlin", "Golang", "Rust", "Swift")
+    links {
+        twitter = "@_jumaallan"
+    }
+}
+```
+
 
 <!-- [![Gibsons github streak](https://github-readme-streak-stats.herokuapp.com?user=Domains18&theme=radical)](https://github.com/Domains18) -->
 
