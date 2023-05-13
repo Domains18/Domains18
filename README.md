@@ -19,7 +19,7 @@ val GibsonsGibson = developer {
     }
     tech("Javascript", "Typescript", "Python", "Golang")
     links {
-        twitter = "@_eightsville"
+        twitter = "@eightsville"
     }
 }
 ```
