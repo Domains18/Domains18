@@ -23,12 +23,11 @@ val GibsonsGibson = developer {
     }
 }
 ```
-<figure><embed src="https://wakatime.com/share/@Eightsville/580498cf-0a79-4928-880d-2028ac2e2ef4.svg"></embed></figure>
 
 
 <!-- [![Gibsons github streak](https://github-readme-streak-stats.herokuapp.com?user=Domains18&theme=radical)](https://github.com/Domains18) -->
 
-<!-- [![Gibsons wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eightsville&theme=radical&custom_title=My%20Wakatime%20Stats&layout=compact)](https://github.com/Domains8) -->
+[![Gibsons wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eightsville&theme=radical&custom_title=My%20Wakatime%20Stats&layout=compact)](https://github.com/Domains8)
 
 
 [![Gibsons github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Domains18&theme=react-dark)](https://github.com/Domains18)
