@@ -23,6 +23,7 @@ val GibsonsGibson = developer {
     }
 }
 ```
+<figure><embed src="https://wakatime.com/share/@Eightsville/580498cf-0a79-4928-880d-2028ac2e2ef4.svg"></embed></figure>
 
 
 <!-- [![Gibsons github streak](https://github-readme-streak-stats.herokuapp.com?user=Domains18&theme=radical)](https://github.com/Domains18) -->
