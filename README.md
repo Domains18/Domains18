@@ -14,7 +14,7 @@ Eng/Sir -->
 ```kotlin
 val GibsonsGibson = developer {
     about {
-        name = "Gibson Kemboi"
+        name = "Gibsons"
         role = Full-Stack Developer
     }
     tech("Javascript", "Typescript", "Python", "Golang")
