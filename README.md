@@ -9,7 +9,6 @@
 ## Pronouns
 Eng/Sir -->
 
-<!-- ## My Github Stats -->
 ```javascript
 val GibsonsGibson = developer {
     about {
