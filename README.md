@@ -31,3 +31,5 @@ val GibsonsGibson = developer {
 [![Gibsons's GitHub stats](https://github-readme-stats.vercel.app/api?username=Domains18&show_icons=true&theme=radical)](
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Domains18&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
+# Visitor counts
+![Visitor Count](https://profile-counter.glitch.me/{Domains18}/count.svg)
