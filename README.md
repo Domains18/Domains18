@@ -15,7 +15,7 @@ val GibsonsGibson = developer {
         name = "Gibsons"
         role = Full-Stack Developer
     }
-    tech("Javascript", "Typescript", "Python", "Golang")
+    tech("Javascript", "Typescript", "Kotlin", "Golang")
     links {
         twitter = "@eightsville"
     }
