@@ -11,4 +11,3 @@ GibsonKemboi := developer{
 
 ```
 
-<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Domains18 &theme=algolia" alt="Domains18" /></p>
