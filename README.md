@@ -1,4 +1,9 @@
-# 👋 Hi, I’m Domains18
+# 👋 Hi, I'm Gibson.
+---
+- Open for contributions (free of charge), Open Source & nerd stuff around computer science math and amateur physics.
+- How to reach me:
+   ***Phone Number & whatsapp*** - +254759097030
+   ***Email*** - gibsonsgibson88@gmail.com
 
 ## 🚀 About Me
 
